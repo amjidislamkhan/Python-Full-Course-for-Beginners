@@ -1,3 +1,4 @@
+#jUST BY REMOVING HASHTAGS FROM ANY CODE EXAMPLE YOU CAN RUN IT
 #print ("hello")
 #Multi line triple commas string
 #print('''hi
